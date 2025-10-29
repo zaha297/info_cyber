@@ -21,3 +21,6 @@ Cryptography is a technique of securing information and communications using cod
 -  Ensure authenticity and non-repudiation
 -  A digital signature uses private key to sign data and public key to verify
 -  Certificates (X.509) are issued by Certificate Authorities (CAs) for trust verifivation(used in HTTPS)
+
+## Example:
+- browser verifies certificate signed by CA to ensure authenticity
